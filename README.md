@@ -1,1 +1,2 @@
 # home-network-setup
+Designed a home network using a star topology and implemented it in my home network. There are six personal desktops that need to utilize the 1 gigabyte of upload and download speed, and a smart TV that can only have a wired connection. Everything else can be connected wirelessly, but I am tasked with prioritizing the desktop PC's upload and download speeds and bringing a network connection to the Smart TV.
