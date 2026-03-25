@@ -67,7 +67,7 @@ One of my desktop PCs was only receiving 100/100 Mbps instead of the expected 1 
 ---
 
 ### Step 7: Verified with speed test (~900+ Mbps)  
-![Speed Test](image/speedtest.png)
+![Speed Test](image/speed-test.png)
 
 ### Root Cause
 The network adapter's Speed & Duplex setting was set to 100 Mbps Full Duplex, which limited the link speed and did not meet expectations.
