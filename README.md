@@ -51,7 +51,7 @@ One of my desktop PCs was only receiving 100/100 Mbps instead of the expected 1 
 ---
 
 ### Step 1: Identified the issue in Windows settings  
-![100 Mbps Link Speed](image/100mbps.png)
+![100 Mbps Link Speed](image/100mbps-transmit.png)
 
 ---
 
@@ -66,7 +66,7 @@ One of my desktop PCs was only receiving 100/100 Mbps instead of the expected 1 
 ---
 
 ### Step 4: Found incorrect Speed & Duplex setting  
-![Speed & Duplex 100 Mbps](image/100mbps-transmit.png)
+![Speed & Duplex 100 Mbps](image/100mbps.png)
 
 ---
 
