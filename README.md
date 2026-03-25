@@ -15,3 +15,19 @@ Everything not connected to the layer 2 switch, such as smartphones or IoT devic
 - Switch: Netgear GS308E (Layer 2)
 - Cabling: Cat6 Ethernet
 - Devices: 6 Desktop PCs, 1 Smart TV
+
+## Network Configuration
+
+- DHCP Enabled
+- Private IP Range: 192.168.1.0/24
+- Default Gateway: 192.168.1.1
+- Wired Connections: 1 Gbps (Cat6 Ethernet)
+
+## Skills Demonstrated
+
+- Network topology design (Star topology)
+- TCP/IP fundamentals
+- DHCP configuration
+- Layer 2 switching
+- Physical network installation
+- Cable management
