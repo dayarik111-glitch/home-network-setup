@@ -89,14 +89,11 @@ Status: Resolved
 
 ## Skills Demonstrated
 
-- Network topology design (Star topology)
+- Network architecture planning
 - TCP/IP fundamentals
 - DHCP configuration
 - Layer 2 switching
-- Network architecture planning
-- Wired vs wireless optimization
-- Understanding of fiber infrastructure (ONT)
-- Physical network installation
+- Network troubleshooting
+- NIC configuration (Speed & Duplex)
 - Structured cabling
-- Cable management
 - Network documentation
