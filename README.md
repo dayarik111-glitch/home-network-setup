@@ -84,7 +84,7 @@ The importance of checking the NIC configuration settings is important when diag
 
 Issue: User Network speed is limited to 100 Mbps  
 Cause: Incorrect NIC Speed & Duplex setting  
-Resolution: Set to Auto Negotiation ww 
+Resolution: Set to Auto Negotiation  
 Status: Resolved
 
 ## Skills Demonstrated
