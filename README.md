@@ -41,3 +41,17 @@ Everything not connected to the layer 2 switch, such as smartphones or IoT devic
 - Structured cabling
 - Cable management
 - Network documentation
+
+![100 Mbps Link Speed](image/100mbps.png)
+
+![Run Dialog](image/rundialog.png)
+
+![Device Manager](image/devicemanagement.png)
+
+![Speed & Duplex 100 Mbps](image/100mbps-transmit.png)
+
+![Auto Negotiation](image/autonegotiation.png)
+
+![1 Gbps Link Speed](image/1gbps-transmit-update.png)
+
+![Speed Test](image/speedtest.png)
