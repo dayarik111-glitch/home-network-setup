@@ -28,20 +28,6 @@ Everything not connected to the layer 2 switch, such as smartphones or IoT devic
 - Default Gateway: 192.168.1.1
 - Wired Connections: 1 Gbps (Cat6 Ethernet)
 
-## Skills Demonstrated
-
-- Network topology design (Star topology)
-- TCP/IP fundamentals
-- DHCP configuration
-- Layer 2 switching
-- Network architecture planning
-- Wired vs wireless optimization
-- Understanding of fiber infrastructure (ONT)
-- Physical network installation
-- Structured cabling
-- Cable management
-- Network documentation
-
 ## Troubleshooting
 
 ### Issue: Limited Network Speed (100 Mbps instead of 1 Gbps)
@@ -82,3 +68,35 @@ One of my desktop PCs was only receiving 100/100 Mbps instead of the expected 1 
 
 ### Step 7: Verified with speed test (~900+ Mbps)  
 ![Speed Test](image/speedtest.png)
+
+### Root Cause
+The network adapter's Speed & Duplex setting was set to 100 Mbps Full Duplex, which limited the link speed and did not meet expectations.
+
+### Resolution
+Changing the setting to Auto Negotiation allowed the adapter to negotiate the correct speed of 1 Gbps.
+
+### Result
+The link speed was updated to 1000/1000 Mbps, and performance was verified with a speed test (~900+ Mbps).
+
+The importance of checking the NIC configuration settings is important when diagnosing network speed, especially if the speed does not meet expectations.
+
+### Ticket Summary (Simulated)
+
+Issue: User wNetwork speed is limited to 100 Mbps  
+Cause: Incorrect NIC Speed & Duplex setting  
+Resolution: Set to Auto Negotiation ww 
+Status: Resolved
+
+## Skills Demonstrated
+
+- Network topology design (Star topology)
+- TCP/IP fundamentals
+- DHCP configuration
+- Layer 2 switching
+- Network architecture planning
+- Wired vs wireless optimization
+- Understanding of fiber infrastructure (ONT)
+- Physical network installation
+- Structured cabling
+- Cable management
+- Network documentation
