@@ -34,5 +34,10 @@ Everything not connected to the layer 2 switch, such as smartphones or IoT devic
 - TCP/IP fundamentals
 - DHCP configuration
 - Layer 2 switching
+- Network architecture planning
+- Wired vs wireless optimization
+- Understanding of fiber infrastructure (ONT)
 - Physical network installation
+- Structured cabling
 - Cable management
+- Network documentation
