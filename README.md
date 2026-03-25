@@ -82,7 +82,7 @@ The importance of checking the NIC configuration settings is important when diag
 
 ### Ticket Summary (Simulated)
 
-Issue: User wNetwork speed is limited to 100 Mbps  
+Issue: User Network speed is limited to 100 Mbps  
 Cause: Incorrect NIC Speed & Duplex setting  
 Resolution: Set to Auto Negotiation ww 
 Status: Resolved
