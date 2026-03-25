@@ -42,16 +42,43 @@ Everything not connected to the layer 2 switch, such as smartphones or IoT devic
 - Cable management
 - Network documentation
 
+## Troubleshooting
+
+### Issue: Limited Network Speed (100 Mbps instead of 1 Gbps)
+
+One of my desktop PCs was only receiving 100/100 Mbps instead of the expected 1 Gbps.
+
+---
+
+### Step 1: Identified the issue in Windows settings  
 ![100 Mbps Link Speed](image/100mbps.png)
 
+---
+
+### Step 2: Opened Device Manager using Run  
 ![Run Dialog](image/rundialog.png)
 
+---
+
+### Step 3: Navigated to Network Adapters  
 ![Device Manager](image/devicemanagement.png)
 
+---
+
+### Step 4: Found incorrect Speed & Duplex setting  
 ![Speed & Duplex 100 Mbps](image/100mbps-transmit.png)
 
+---
+
+### Step 5: Changed to Auto Negotiation  
 ![Auto Negotiation](image/autonegotiation.png)
 
+---
+
+### Step 6: Verified 1 Gbps link speed  
 ![1 Gbps Link Speed](image/1gbps-transmit-update.png)
 
+---
+
+### Step 7: Verified with speed test (~900+ Mbps)  
 ![Speed Test](image/speedtest.png)
