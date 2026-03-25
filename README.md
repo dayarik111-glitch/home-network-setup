@@ -7,7 +7,7 @@ Everything not connected to the layer 2 switch, such as smartphones or IoT devic
 
 ## Network Topology
 
-![Home Network Topology](Home%20Network%20Topology.png)
+![Home Network Topology](image/Home%20Network%20Topology.png)
 
 ## Service Provider
 
