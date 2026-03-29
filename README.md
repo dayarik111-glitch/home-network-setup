@@ -76,7 +76,7 @@ The link speed was updated to 1000/1000 Mbps, and performance was verified with 
 
 The importance of checking the NIC configuration settings is important when diagnosing network speed, especially if the speed does not meet expectations.
 
-### Ticket Summary (Simulated)
+### Incident Summary (Simulated IT Ticket)
 
 Issue: User Network speed is limited to 100 Mbps  
 Cause: Incorrect NIC Speed & Duplex setting  
