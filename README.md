@@ -28,7 +28,7 @@ Designed and maintained a home network supporting 30+ devices, including desktop
 
 ### Issue: Limited Network Speed (100 Mbps instead of 1 Gbps)
 
-One of my desktop PCs was only receiving 100/100 Mbps instead of the expected 1 Gbps.
+Identified a network performance issue where a desktop device was limited to 100 Mbps instead of the expected gigabit speeds, impacting overall performance.
 
 ---
 
