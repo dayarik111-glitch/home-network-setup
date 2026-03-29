@@ -28,7 +28,7 @@ Designed and maintained a home network supporting 30+ devices, including desktop
 
 ### Issue: Limited Network Speed (100 Mbps instead of 1 Gbps)
 
-Identified a network performance issue where a desktop device was limited to 100 Mbps instead of the expected gigabit speeds, impacting overall performance.
+Identified a network performance issue where a desktop device was limited to 100 Mbps instead of the expected gigabit speeds, impacting overall performance. This section documents a real-world network issue I encountered in my home network, including the troubleshooting process, root cause identification, and resolution.
 
 ---
 
